@@ -1,0 +1,11 @@
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\bin\Debug\net8.0\HttpMessageParser.deps.json
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\bin\Debug\net8.0\HttpMessageParser.dll
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\bin\Debug\net8.0\HttpMessageParser.pdb
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.AssemblyInfoInputs.cache
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.AssemblyInfo.cs
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.csproj.CoreCompileInputs.cache
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.dll
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\refint\HttpMessageParser.dll
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\HttpMessageParser.pdb
+C:\Users\memip\Downloads\cetys-icc-hetplat-main\cetys-icc-hetplat-main\1.HttpMessages\HttpMessages\HttpMessageParser\obj\Debug\net8.0\ref\HttpMessageParser.dll
