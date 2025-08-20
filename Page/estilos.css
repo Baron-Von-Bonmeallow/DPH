@@ -1,0 +1,46 @@
+
+p {
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: justify-all;
+    border: red;
+    border-style: solid;
+}
+
+.bio {
+    color: white;
+    font-family: Arial;
+    text-align: justify-all;
+    font-size: larger;
+}
+
+.hylink {
+    color: blue;
+}
+
+.main-text {
+    color: orange;
+    font-family: 'Times New Roman';
+    text-align: justify-all;
+}
+
+.list2 {
+    color: green;
+}
+
+#text {
+    color: yellow;
+    line-height: revert;
+    font-size: larger
+}
+
+ul {
+    color: black;
+}
+
+h1 {
+    color: aqua;
+    font-family: 'Constantia';
+    font-weight: 1500;
+    font-size: xx-large;
+}
