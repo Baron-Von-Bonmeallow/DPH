@@ -1,0 +1,15 @@
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.AssemblyInfoInputs.cache
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.AssemblyInfo.cs
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.csproj.CoreCompileInputs.cache
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.sourcelink.json
+C:\Users\memip\source\repos\Web_Site\Web_Site\bin\Debug\net8.0\Web_Site.exe
+C:\Users\memip\source\repos\Web_Site\Web_Site\bin\Debug\net8.0\Web_Site.deps.json
+C:\Users\memip\source\repos\Web_Site\Web_Site\bin\Debug\net8.0\Web_Site.runtimeconfig.json
+C:\Users\memip\source\repos\Web_Site\Web_Site\bin\Debug\net8.0\Web_Site.dll
+C:\Users\memip\source\repos\Web_Site\Web_Site\bin\Debug\net8.0\Web_Site.pdb
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.dll
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\refint\Web_Site.dll
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.pdb
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\Web_Site.genruntimeconfig.cache
+C:\Users\memip\source\repos\Web_Site\Web_Site\obj\Debug\net8.0\ref\Web_Site.dll
