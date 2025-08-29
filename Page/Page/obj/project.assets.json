@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memip\\source\\repos\\Page\\Page\\Page.csproj",
+      "projectUniqueName": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Page\\Page\\Page.csproj",
       "projectName": "Page",
-      "projectPath": "C:\\Users\\memip\\source\\repos\\Page\\Page\\Page.csproj",
+      "projectPath": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Page\\Page\\Page.csproj",
       "packagesPath": "C:\\Users\\memip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memip\\source\\repos\\Page\\Page\\obj\\",
+      "outputPath": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Page\\Page\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
