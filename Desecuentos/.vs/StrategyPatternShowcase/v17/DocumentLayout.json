@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes\\models\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|solutionrelative:discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.consolerunner\\discountcodes.consolerunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|solutionrelative:discountcodes.consolerunner\\discountcodes.consolerunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes\\models\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|solutionrelative:discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.consolerunner\\discountcodes.consolerunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|solutionrelative:discountcodes.consolerunner\\discountcodes.consolerunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|solutionrelative:discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|c:\\users\\memip\\documents\\github\\dph\\desecuentos\\discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|solutionrelative:discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +38,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IDiscount.cs",
               "DocumentMoniker": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes\\Models\\IDiscount.cs",
               "RelativeDocumentMoniker": "DiscountCodes\\Models\\IDiscount.cs",
               "ToolTip": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes\\Models\\IDiscount.cs",
               "RelativeToolTip": "DiscountCodes\\Models\\IDiscount.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBYAAAATAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowEUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T02:21:50.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DiscountCodes.ConsoleRunner.csproj",
               "DocumentMoniker": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj",
               "RelativeDocumentMoniker": "DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes.ConsoleRunner\\Program.cs",
               "RelativeDocumentMoniker": "DiscountCodes.ConsoleRunner\\Program.cs",
@@ -96,22 +96,23 @@
               "RelativeDocumentMoniker": "DiscountCodes\\Models\\ShoppingCart.cs",
               "ToolTip": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes\\Models\\ShoppingCart.cs",
               "RelativeToolTip": "DiscountCodes\\Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAcAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwCMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T01:38:10.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DiscountCodesTests.cs",
               "DocumentMoniker": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes.Tests\\DiscountCodesTests.cs",
               "RelativeDocumentMoniker": "DiscountCodes.Tests\\DiscountCodesTests.cs",
               "ToolTip": "C:\\Users\\memip\\Documents\\GitHub\\DPH\\Desecuentos\\DiscountCodes.Tests\\DiscountCodesTests.cs",
               "RelativeToolTip": "DiscountCodes.Tests\\DiscountCodesTests.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAwAAAAWAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAD4vyAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T01:37:38.767Z"
+              "WhenOpened": "2025-09-12T01:37:38.767Z",
+              "EditorCaption": ""
             }
           ]
         }

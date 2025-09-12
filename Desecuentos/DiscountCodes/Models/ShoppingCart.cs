@@ -30,9 +30,12 @@
         {
             discount= code.ToUpper() switch
                 {
-                //"BRAND2DISCOUNT" => new
-                "10PERCENTOFF" => new DPRC(10)
-                ,_ => new NoDiscount()
+                "BRAND2DISCOUNT" => new DPBP(0.10m,"Brand2"),
+                "10PERCENTOFF" => new DPRC(0.10m),
+                "BRAND1MANIA"=>new DPBP(0.50m,"Brand1"),
+                "BOGOFREE"=> new MIDS(2),
+                "5USDOFF"=>new Minus(5m),
+                _ => new NoDiscount()
                 };
             // TODO: Implement discount codes
         }
