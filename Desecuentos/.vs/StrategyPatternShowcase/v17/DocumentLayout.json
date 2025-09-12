@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|c:\\users\\memip\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-strategypatternshowcase\\discountcodes\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|c:\\users\\memip\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-strategypatternshowcase\\discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457E0D82-3FBB-45BF-97BF-582CF1CB9AA9}|DiscountCodes.Tests\\DiscountCodes.Tests.csproj|solutionrelative:discountcodes.tests\\discountcodestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|c:\\users\\memip\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-strategypatternshowcase\\discountcodes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F37591-8BD6-4C16-A91C-2D206A930417}|DiscountCodes\\DiscountCodes.csproj|solutionrelative:discountcodes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|c:\\users\\memip\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-strategypatternshowcase\\discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F5A9B-795F-4DE5-8063-BAA445A48329}|DiscountCodes.ConsoleRunner\\DiscountCodes.ConsoleRunner.csproj|solutionrelative:discountcodes.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes.ConsoleRunner\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountCodes.ConsoleRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes.ConsoleRunner\\Program.cs",
+              "RelativeToolTip": "DiscountCodes.ConsoleRunner\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:39:50.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DiscountCodes\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes\\Models\\Product.cs",
+              "RelativeToolTip": "DiscountCodes\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:39:44.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "DiscountCodes\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "DiscountCodes\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:38:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountCodesTests.cs",
+              "DocumentMoniker": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes.Tests\\DiscountCodesTests.cs",
+              "RelativeDocumentMoniker": "DiscountCodes.Tests\\DiscountCodesTests.cs",
+              "ToolTip": "C:\\Users\\memip\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-StrategyPatternShowcase\\DiscountCodes.Tests\\DiscountCodesTests.cs",
+              "RelativeToolTip": "DiscountCodes.Tests\\DiscountCodesTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:37:38.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
