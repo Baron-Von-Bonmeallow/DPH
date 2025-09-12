@@ -2,6 +2,7 @@
 {
     public class ShoppingCart
     {
+        private IDiscount discount = new NoDiscount();
         private List<Product> items = new List<Product>();
         public IReadOnlyList<Product> Items => items.AsReadOnly();
 
@@ -16,7 +17,7 @@
         /// <returns></returns>
         public decimal GetTotal()
         {
-            return items.Sum(item => item.Price);
+            return items.Sum(item => item.Price)-discount.GetDiscountAmount(Items);
         }
 
         /// <summary>
@@ -27,7 +28,12 @@
         /// <param name="code"></param>
         public void ApplyDiscount(string code)
         {
-            string = Product.Brand;
+            discount= code.ToUpper() switch
+                {
+                //"BRAND2DISCOUNT" => new
+                "10PERCENTOFF" => new DPRC(10)
+                ,_ => new NoDiscount()
+                };
             // TODO: Implement discount codes
         }
     }
