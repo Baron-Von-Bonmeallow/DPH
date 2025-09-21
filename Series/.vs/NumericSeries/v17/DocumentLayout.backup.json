@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\",
+  "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\models\\modelresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\modelresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 5.dynamicsites-numericseries (1)\\numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\modelresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\modelresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NumericSeries\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "NumericSeries\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T00:46:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Views\\Series\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Index.cshtml",
               "RelativeDocumentMoniker": "NumericSeries\\Views\\Series\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Views\\Series\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Index.cshtml",
               "RelativeToolTip": "NumericSeries\\Views\\Series\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-18T21:38:27.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "NumericSeries\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T21:32:01.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SeriesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\SeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\SeriesViewModel.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Models\\SeriesViewModel.cs",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\SeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\SeriesViewModel.cs",
               "RelativeToolTip": "NumericSeries\\Models\\SeriesViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T21:31:26.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ModelResults.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\ModelResults.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ModelResults.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Models\\ModelResults.cs",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Models\\ModelResults.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ModelResults.cs",
               "RelativeToolTip": "NumericSeries\\Models\\ModelResults.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,28 +111,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SeriesController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Controllers\\SeriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Controllers\\SeriesController.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Controllers\\SeriesController.cs",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Controllers\\SeriesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Controllers\\SeriesController.cs",
               "RelativeToolTip": "NumericSeries\\Controllers\\SeriesController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T20:58:15.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Program.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Program.cs",
-              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 5.DynamicSites-NumericSeries (1)\\NumericSeries\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Program.cs",
               "RelativeToolTip": "NumericSeries\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T20:58:01.573Z"
+              "WhenOpened": "2025-09-18T20:58:01.573Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -67,4 +67,16 @@
             };
         }
     }
+    public class QuadraticCalculator : Calculator
+    {
+        public ModelResults Calculate(int n)
+        {
+            return new ModelResults
+            {
+                Series = "Quadratic",
+                N = n,
+                Result = n * n
+            };
+        }
+    }
 }

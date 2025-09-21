@@ -15,6 +15,7 @@ namespace NumericSeries.Controllers
                 "odd" => new OddCalculator(),
                 "even" => new EvenCalculator(),
                 "fibonacci" => new FibonacciCalculator(),
+                "quadratic" => new QuadraticCalculator(),
                 _ => null
             };
 

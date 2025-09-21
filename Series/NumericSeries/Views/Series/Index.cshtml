@@ -6,3 +6,9 @@
 <p>
     The number at the position @Model.N in the @Model.Series number series is <strong>@Model.Result.Result</strong>.
 </p>
+<button onclick="window.location.href='@Url.Action("Index", "Series", new { series = Model.Series, n = Model.N + -1 })'">
+    Previous
+</button>
+<button onclick="window.location.href='@Url.Action("Index", "Series", new { series = Model.Series, n = Model.N + 1 })'">
+    Next
+</button>
