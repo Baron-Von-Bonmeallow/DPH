@@ -9,6 +9,11 @@ namespace NumericSeries.Controllers
         [HttpGet("/series/{series}/{n:min(0)}")]
         public IActionResult Index(string series, int n = 0)
         {
+            if (n < 0)
+            {
+                return BadRequest("Negative numbers are not allowed for this series.");
+            }
+
             Calculator? calculator = series.ToLowerInvariant() switch
             {
                 "natural" => new NaturalCalculator(),
@@ -19,12 +24,12 @@ namespace NumericSeries.Controllers
                 _ => null
             };
 
-            var result = calculator?.Calculate(n) ?? new ModelResults
+            if (calculator == null)
             {
-                Series = "Unknown",
-                N = n,
-                Result = 0
-            };
+                return NotFound($"Series '{series}' is not recognized.");
+            }
+
+            var result = calculator.Calculate(n);
 
             return View(new SeriesViewModel
             {
