@@ -31,7 +31,7 @@ namespace NumericSeries
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
-                name: "default",
+                name: "series",
                 pattern: "series/{series=natural}/{n=0}");
 
             app.Run();
