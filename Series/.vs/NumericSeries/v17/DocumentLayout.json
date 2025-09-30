@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\series\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\series\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\modelresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +17,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\series\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|solutionrelative:numericseries\\views\\series\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7628A65A-BA9F-40A0-8988-B04400E74FEF}|NumericSeries\\NumericSeries.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\series\\numericseries\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Error.cshtml",
-              "RelativeDocumentMoniker": "NumericSeries\\Views\\Series\\Error.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Error.cshtml",
-              "RelativeToolTip": "NumericSeries\\Views\\Series\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T01:13:20.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Controllers\\ErrorController.cs",
@@ -80,16 +67,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NumericSeries\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NumericSeries\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T00:46:58.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T00:46:58.517Z"
             },
             {
               "$type": "Document",
@@ -101,8 +87,7 @@
               "RelativeToolTip": "NumericSeries\\Views\\Series\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T21:38:27.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T21:38:27.75Z"
             },
             {
               "$type": "Document",
@@ -119,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SeriesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\SeriesViewModel.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Models\\SeriesViewModel.cs",
@@ -132,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ModelResults.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ModelResults.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Models\\ModelResults.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Models\\ModelResults.cs",
               "RelativeToolTip": "NumericSeries\\Models\\ModelResults.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA4wB8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T21:02:45.616Z",
               "EditorCaption": ""
@@ -151,23 +136,34 @@
               "RelativeDocumentMoniker": "NumericSeries\\Controllers\\SeriesController.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Controllers\\SeriesController.cs",
               "RelativeToolTip": "NumericSeries\\Controllers\\SeriesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T20:58:15.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Program.cs",
               "RelativeDocumentMoniker": "NumericSeries\\Program.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Program.cs",
               "RelativeToolTip": "NumericSeries\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T20:58:01.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T20:58:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Error.cshtml",
+              "RelativeDocumentMoniker": "NumericSeries\\Views\\Series\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Series\\NumericSeries\\Views\\Series\\Error.cshtml",
+              "RelativeToolTip": "NumericSeries\\Views\\Series\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T01:13:20.491Z"
             }
           ]
         }
