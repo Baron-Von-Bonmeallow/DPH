@@ -1,0 +1,45 @@
+﻿@model Blog.Models.ArticleDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+TODO: Render article
+<div>
+    <h2>@Model.Article.Title</h2>
+    <p>@Model.Article.Content</p>
+    <p>By: @Model.Article.AuthorName (@Model.Article.AuthorEmail)</p>
+    <p>Date of Publication: @Model.Article.PublishedDate.ToLocalTime()</p>
+    <p>@Model.Article.Content</p>
+</div>
+<h2>Comments</h2>
+<form asp-controller="Comments" asp-action="AddComment" method="post">
+    <input type="hidden" name="ArticleId" value="@Model.Article.Id" />
+    <input type="text" maxlength="500" name="Content" placeholder="Insert Comment Content" />
+    <br />
+    <button type="submit">Submit</button>
+</form>
+TODO: Add comment form
+
+
+
+
+TODO: Render comments
+@if (Model.Comments.Any())
+{
+@foreach (var comment in Model.Comments)
+{
+    <div class="comment">
+        <p>@comment.Content</p>
+        <p>
+            <small>Publish: @comment.PublishedDate.ToLocalTime()</small>
+        </p>
+    </div>
+}
+}
+else
+{
+    <p>No comments yet.</p>
+}

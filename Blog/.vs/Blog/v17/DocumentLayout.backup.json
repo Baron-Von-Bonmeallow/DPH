@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\data\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\data\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\data\\memoryarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\memoryarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\downloads\\ludanortmun cetys-icc-hetplat main 7.persistence-blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\IArticleRepository.cs",
+              "RelativeToolTip": "Data\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:47:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:10:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\ArticleDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ArticleDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\ArticleDetailsViewModel.cs",
+              "RelativeToolTip": "Models\\ArticleDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:29:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\ArticleRepository.cs",
+              "RelativeToolTip": "Data\\ArticleRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwFUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:43:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T05:07:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:59:44.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T03:51:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:29:58.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoryArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\MemoryArticleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\MemoryArticleRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Data\\MemoryArticleRepository.cs",
+              "RelativeToolTip": "Data\\MemoryArticleRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:12:37.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:35:07.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T03:04:36.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T02:18:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:37:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\DatabaseConfig.cs",
+              "RelativeToolTip": "DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T02:32:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\ludanortmun cetys-icc-hetplat main 7.Persistence-Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:31:56.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

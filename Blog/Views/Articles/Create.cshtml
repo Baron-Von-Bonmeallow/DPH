@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Create Article";
+}
+
+<h1>Create Article</h1>
+<form  asp-controller="Articles" asp-action="Create" method="post">
+    <input type="text" maxlength="100" name="Content" placeholder="Insert Article Content"/>
+    <input type="text" name="Title" placeholder="Insert Article Title" />
+    <input type="text" name="AuthorName" placeholder="Insert Username"/>
+    <input type="email" name="AuthorEmail" placeholder="Insert Email"/>
+    <button type="submit">Submit</button>
+</form>
