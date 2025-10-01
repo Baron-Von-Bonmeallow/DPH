@@ -55,9 +55,9 @@ namespace Blog.Data
             var result = new List<Article>();
             using var connection = new SqliteConnection(_connectionString);
             connection.Open();
-            var command = connection.CreateCommand();
-            command.CommandText = @"SELECT * FROM Articles";
-            using var reader = command.ExecuteReader();
+            var all = connection.CreateCommand();
+            all.CommandText = @"SELECT * FROM Articles";
+            using var reader = all.ExecuteReader();
             while (reader.Read())
             {
                 var article = new Article()
@@ -80,14 +80,14 @@ namespace Blog.Data
             var result = new List<Article>();
             using var connection = new SqliteConnection(_connectionString);
             connection.Open();
-            var command = connection.CreateCommand();
-            command.CommandText = @"SELECT * FROM Articles WHERE PublishedDate BETWEEN $startDate AND $endDate";
+            var range = connection.CreateCommand();
+            range.CommandText = @"SELECT * FROM Articles WHERE PublishedDate BETWEEN $startDate AND $endDate";
 
-            command.Parameters.AddWithValue("$startDate", startDate.ToString("o"));
-            command.Parameters.AddWithValue("$endDate", endDate.ToString("o"));
+            range.Parameters.AddWithValue("$startDate", startDate.ToString("o"));
+            range.Parameters.AddWithValue("$endDate", endDate.ToString("o"));
 
 
-            using var reader = command.ExecuteReader();
+            using var reader = range.ExecuteReader();
             while (reader.Read())
             {
                 var article = new Article()
@@ -142,6 +142,7 @@ namespace Blog.Data
             insert.Parameters.AddWithValue("$title", article.Title);
             insert.Parameters.AddWithValue("$content", article.Content);
             insert.Parameters.AddWithValue("$date", article.PublishedDate.ToString("o"));
+            insert.ExecuteNonQuery();
             var newId = connection.CreateCommand();
             newId.CommandText = "SELECT last_insert_rowid();";
             article.Id = Convert.ToInt32(newId.ExecuteScalar());

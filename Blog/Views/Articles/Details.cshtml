@@ -15,31 +15,22 @@ TODO: Render article
     <p>@Model.Article.Content</p>
 </div>
 <h2>Comments</h2>
-<form asp-controller="Comments" asp-action="AddComment" method="post">
+TODO: Add comment form
+<form method="post" action="/Articles/@Model.Article.Id/AddComment">
     <input type="hidden" name="ArticleId" value="@Model.Article.Id" />
-    <input type="text" maxlength="500" name="Content" placeholder="Insert Comment Content" />
+    <textarea maxlength="500" cols="50" rows="10" name="Content" placeholder="Insert Comment Content"></textarea>
     <br />
     <button type="submit">Submit</button>
 </form>
-TODO: Add comment form
-
-
-
 
 TODO: Render comments
 @if (Model.Comments.Any())
 {
 @foreach (var comment in Model.Comments)
 {
-    <div class="comment">
-        <p>@comment.Content</p>
-        <p>
-            <small>Publish: @comment.PublishedDate.ToLocalTime()</small>
-        </p>
+    <div class="comment"> <p>@comment.Content</p> <p><small>Publish: @comment.PublishedDate.ToLocalTime()</small></p>
     </div>
 }
 }
 else
-{
-    <p>No comments yet.</p>
-}
+{<p>No comments yet.</p>}

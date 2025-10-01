@@ -13,13 +13,12 @@
 <form class="row row-cols-lg-auto g-3 align-items-center" asp-action="Index" method="get">
     <div class="col-12">
         <label class="visually-hidden" for="startDate">Start date</label>
-        <input class="form-control" type="date" id="startDate" name="startDate" value="@startDate?.ToString("yyyy-MM-dd") />
+        <input class="form-control" type="date" id="startDate" name="startDate" value="@startDate?.ToString("yyyy-MM-dd")" />
     </div>
     <div class="col-12">
         <label class="visually-hidden"
                for="@endDate">End date</label>
-        <input class="form-control"
-               type="date" id="endDate" name="endDate" value="@endDate?.ToString("yyyy-MM-dd")" />
+        <input class="form-control" type="date" id="endDate" name="endDate" value="@endDate?.ToString("yyyy-MM-dd")" />
     </div>
     <div class="col-12">
         <button class="btn btn-primary" type="submit">Filter</button>
