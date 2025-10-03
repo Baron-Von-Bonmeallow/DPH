@@ -48,7 +48,22 @@ namespace Blog.Data
 
             return article;
         }
-
+        public Article? GetByTitle(string title)
+        {
+            return _articles.Values.FirstOrDefault(a => a.Title.Equals(title, StringComparison.OrdinalIgnoreCase));
+        }
+        public IEnumerable<Article> GetByAuthor(string authorName)
+        {
+            return _articles.Values
+                .Where(a => a.AuthorName.Equals(authorName, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+        }
+        public IEnumerable<Article> GetByEmail(string authorEmail) 
+        {
+            return _articles.Values
+                .Where(a => a.AuthorEmail.Equals(authorEmail, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+        }
         public IEnumerable<Comment> GetCommentsByArticleId(int articleId)
         {
             if (!_articles.ContainsKey(articleId))

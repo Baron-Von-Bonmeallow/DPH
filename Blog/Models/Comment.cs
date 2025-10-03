@@ -24,5 +24,8 @@ namespace Blog.Models
         /// Represents the moment the comment was posted.
         /// </summary>
         public DateTimeOffset PublishedDate { get; set; }
+        public Article Article { get; set; }
     }
+
 }
+

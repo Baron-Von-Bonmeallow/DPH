@@ -1,6 +1,8 @@
-﻿using Blog.Models;
+﻿using Blog.Data;
+using Blog.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Data.Sqlite;
+using Microsoft.EntityFrameworkCore;
 using NuGet.Protocol.Plugins;
 
 namespace Blog.Data
@@ -10,142 +12,84 @@ namespace Blog.Data
     /// </summary>
     public class ArticleRepository : IArticleRepository
     {
-        private readonly string _connectionString;
+        private readonly BlogContext _context;
 
-        public ArticleRepository(DatabaseConfig _config)
+        public ArticleRepository(BlogContext context)
         {
-            //using var connection = new SqliteConnection(_connectionString);
-            //connection.Open();
-            _connectionString = _config.DefaultConnectionString ?? throw new ArgumentNullException("Connection string not found");
+            _context = context;
         }
 
         /// <summary>
         /// Creates the necessary tables for this application if they don't exist already.
         /// Should be called once when starting the service.
         /// </summary>
-        public void EnsureCreated()
-        {
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-
-            var command = connection.CreateCommand();
-            command.CommandText =
-                @"CREATE TABLE IF NOT EXISTS Articles
-                (
-                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    AuthorName TEXT NOT NULL,
-                    AuthorEmail TEXT NOT NULL,
-                    Title TEXT NOT NULL,
-                    Content TEXT NOT NULL,
-                    PublishedDate TEXT NOT NULL
-                );
-                CREATE TABLE IF NOT EXISTS Comments
-                (
-                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    ArticleId INTEGER NOT NULL,
-                    Content TEXT NOT NULL,
-                    PublishedDate TEXT NOT NULL,
-                    FOREIGN KEY (ArticleId) REFERENCES Articles(Id) ON DELETE CASCADE   
-                )";
-            command.ExecuteNonQuery();
-        }
+        //public void EnsureCreated()
+        //{
+        //    using var context = new BlogContext();
+        //    context.Database.EnsureCreated();
+        //}
 
         public IEnumerable<Article> GetAll()
         {
-            var result = new List<Article>();
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var all = connection.CreateCommand();
-            all.CommandText = @"SELECT * FROM Articles";
-            using var reader = all.ExecuteReader();
-            while (reader.Read())
-            {
-                var article = new Article()
-                {
-                    Id = reader.GetInt32(0),
-                    AuthorName = reader.GetString(1),
-                    AuthorEmail = reader.GetString(2),
-                    Title = reader.GetString(3),
-                    Content = reader.GetString(4),
-                    PublishedDate = DateTimeOffset.Parse(reader.GetString(5))
-                };
-
-                result.Add(article);
-            }
-            return result;
+            return _context.Articles
+                .ToList()
+                .OrderBy(a => a.PublishedDate)
+                .ToList();
         }
+        public IEnumerable<Article> GetByAuthor(string AuthorFilter)
+        {
+            //var result = new BlogContext();
+            
+            return _context.Articles
+                .Where(a => a.AuthorName.ToLower() == AuthorFilter.ToLower())
+                .ToList()
+                .OrderBy(a => a.PublishedDate)
+                .ToList();
+        }
+        public Article? GetByTitle(string TitleFilter)
+        {
+            //var result = new BlogContext();
+            if (string.IsNullOrWhiteSpace(TitleFilter)) { return null; };
 
+
+            var normalized = TitleFilter.Trim().ToLowerInvariant();
+
+            return _context.Articles
+                .FirstOrDefault(a => a.Title.ToLower().Contains(normalized));
+
+        }
         public IEnumerable<Article> GetByDateRange(DateTimeOffset startDate, DateTimeOffset endDate)
         {
-            var result = new List<Article>();
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var range = connection.CreateCommand();
-            range.CommandText = @"SELECT * FROM Articles WHERE PublishedDate BETWEEN $startDate AND $endDate";
+            //using var range = new BlogContext();
 
-            range.Parameters.AddWithValue("$startDate", startDate.ToString("o"));
-            range.Parameters.AddWithValue("$endDate", endDate.ToString("o"));
-
-
-            using var reader = range.ExecuteReader();
-            while (reader.Read())
-            {
-                var article = new Article()
-                {
-                    Id = reader.GetInt32(0),
-                    AuthorName = reader.GetString(1),
-                    AuthorEmail = reader.GetString(2),
-                    Title = reader.GetString(3),
-                    Content = reader.GetString(4),
-                    PublishedDate = DateTimeOffset.Parse(reader.GetString(5))
-                };
-
-                result.Add(article);
-            }
-            return result;
+            return _context.Articles
+                .Where(a => a.PublishedDate >= startDate && a.PublishedDate <= endDate)
+                .ToList()
+                .OrderBy(a => a.PublishedDate)
+                .ToList();
         }
-
+        public IEnumerable<Article> GetByEmail(string FilterEmail)
+        {
+            //var result = new BlogContext();
+            return _context.Articles
+                .Where(a => a.AuthorEmail.ToLower() == FilterEmail.ToLower())
+                .ToList()
+                .OrderBy(a => a.PublishedDate)
+                .ToList();
+        }
         public Article? GetById(int id)
         {
-            var result = new List<Article>();
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var command = connection.CreateCommand();
-            command.CommandText = @"SELECT * FROM Articles WHERE Id=$id";
-            command.Parameters.AddWithValue("$id", id);
-            using var reader = command.ExecuteReader();
-            if (reader.Read())
-            {
-                return new Article()
-                {
-                    Id = reader.GetInt32(0),
-                    AuthorName = reader.GetString(1),
-                    AuthorEmail = reader.GetString(2),
-                    Title = reader.GetString(3),
-                    Content = reader.GetString(4),
-                    PublishedDate = DateTimeOffset.Parse(reader.GetString(5))
-                };
-                //result.Add(article);
-            }
-            return null;
+            //using var art=new BlogContext();
+            return _context.Articles.Find(id);
         }
 
         public Article Create(Article article)
         {
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var insert = connection.CreateCommand();
-            insert.CommandText = @"INSERT INTO Articles(AuthorName,AuthorEmail,Title,Content,PublishedDate)
-            VALUES($name,$email,$title,$content,$date)";
-            insert.Parameters.AddWithValue("$name", article.AuthorName);
-            insert.Parameters.AddWithValue("$email", article.AuthorEmail);
-            insert.Parameters.AddWithValue("$title", article.Title);
-            insert.Parameters.AddWithValue("$content", article.Content);
-            insert.Parameters.AddWithValue("$date", article.PublishedDate.ToString("o"));
-            insert.ExecuteNonQuery();
-            var newId = connection.CreateCommand();
-            newId.CommandText = "SELECT last_insert_rowid();";
-            article.Id = Convert.ToInt32(newId.ExecuteScalar());
+            //using var insert=new BlogContext();
+
+            _context.Articles.Add(article);
+            _context.SaveChanges();
+
 
             return article;
 
@@ -153,39 +97,19 @@ namespace Blog.Data
 
         public void AddComment(Comment comment)
         {
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var command = connection.CreateCommand();
-            command.CommandText =
-                @"INSERT INTO Comments (ArticleId,Content,PublishedDate)
-                VALUES($articleId,$content,$date)";
-            command.Parameters.AddWithValue("$articleId", comment.ArticleId);
-            command.Parameters.AddWithValue("$content", comment.Content);
-            command.Parameters.AddWithValue("$date", comment.PublishedDate.ToString("o"));
-            command.ExecuteNonQuery();
+            //using var insert = new BlogContext();
+            _context.Comments.Add(comment);
+            _context.SaveChanges();
         }
 
         public IEnumerable<Comment> GetCommentsByArticleId(int articleId)
         {
-            var result = new List<Comment>();
-            using var connection = new SqliteConnection(_connectionString);
-            connection.Open();
-            var command = connection.CreateCommand();
-            command.CommandText = @"SELECT * FROM Comments WHERE ArticleId=$Id";
-            command.Parameters.AddWithValue("$Id", articleId);
-            using var reader = command.ExecuteReader();
-            while (reader.Read())
-            { 
-                var comments=new Comment
-                {
-                    Id = reader.GetInt32(0),
-                    ArticleId = reader.GetInt32(1),
-                    Content = reader.GetString(2),
-                    PublishedDate = DateTimeOffset.Parse(reader.GetString(3))
-                };
-                result.Add(comments);
-            }
-            return result;
+            //using var result = new BlogContext();
+            return _context.Comments
+            .Where(c => c.ArticleId == articleId)
+            .ToList()
+            .OrderBy(c => c.PublishedDate)
+            .ToList();
         }
     }
 }

@@ -31,12 +31,16 @@ namespace Blog.Data
         /// <see langword="null"/>.</returns>
         Article? GetById(int id);
 
+        Article? GetByTitle(string title);
+        IEnumerable<Article> GetByAuthor(string authorName);
+        IEnumerable<Article> GetByEmail(string email);
         /// <summary>
         /// Writes a new article to the repository.
         /// </summary>
         /// <param name="article">The <see cref="Article"/> to save.</param>
         /// <returns>The created <see cref="Article"/></returns>
         Article Create(Article article);
+
 
         /// <summary>
         /// Retrieves a collection of comments associated with the specified article.
@@ -55,5 +59,6 @@ namespace Blog.Data
         /// </remarks>
         /// <param name="comment">The comment to add. This parameter cannot be null.</param>
         void AddComment(Comment comment);
+        
     }
 }

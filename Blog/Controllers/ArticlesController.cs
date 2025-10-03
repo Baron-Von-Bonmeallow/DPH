@@ -28,7 +28,32 @@ namespace Blog.Controllers
 
             return View(_articleRepository.GetAll());
         }
+        public ActionResult Search([FromQuery] string title, [FromQuery] string email)
+        {
+            IEnumerable<Article> results = Enumerable.Empty<Article>();
+            var article = _articleRepository.GetByTitle(title);
+            if (!string.IsNullOrWhiteSpace(title))
+            {
+                if (article != null)
+                {
+                    results = new List<Article> { article };
+                }
+                results = article != null ? new List<Article> { article } : Enumerable.Empty<Article>();
+                ViewBag.TitleFilter = title;
+            }
+            else if (!string.IsNullOrWhiteSpace(email))
+            {
+                results = _articleRepository.GetByEmail(email);
+                ViewBag.EmailFilter = email;
+            }
+            else
+            {
+                return View("Search", Enumerable.Empty<Article>());
+            }
 
+            return View(results);
+
+        }
         // GET: ArticlesController/Details/5
         public ActionResult Details(int id)
         {
@@ -45,6 +70,7 @@ namespace Blog.Controllers
         }
 
         // GET: ArticlesController/Create
+
         public ActionResult Create()
         {
             return View();
@@ -61,9 +87,10 @@ namespace Blog.Controllers
             }
 
             article.PublishedDate = DateTimeOffset.UtcNow;
-            Article created = _articleRepository.Create(article);
+            _articleRepository.Create(article);
+            //Article created = _articleRepository.Create(article);
 
-            return RedirectToAction(nameof(Details), new { id = created.Id });
+            return RedirectToAction(nameof(Details), new { id = article.Id });
         }
 
         [HttpPost]

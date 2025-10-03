@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Blog.Models.Article>
+
+@{
+    ViewData["Title"] = "Search";
+    string? FilterEmail = ViewBag.EmailFilter as string ?? "";
+    string? FilterTitle = ViewBag.TitleFilter as string ?? "";
+
+}
+
+<h1>Search</h1>
+<form asp-action="Search" method="get" class="row row-cols-lg-auto g-3 align-items-center">
+    <div class="col-12">
+        <label class="visually-hidden" for="FilterEmail">Author Email</label>
+        <input class="form-control" type="text" id="FilterEmail" name="email" value="@FilterEmail" placeholder="Author Email" />
+    </div>
+    <div class="col-12">
+        <label class="visually-hidden" for="FilterTitle">Article Title</label>
+        <input class="form-control" type="text" id="FilterTitle" name="title" value="@FilterTitle" placeholder="Article Title" />
+    </div>
+    <div class="col-12">
+        <button class="btn btn-primary" type="submit">Search</button>
+    </div>
+</form>
+<div>
+    @if (Model != null && Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor((Article a) => a.Title)</th>
+                    <th>@Html.DisplayNameFor((Article a) => a.AuthorEmail)</th>
+                    <th>@Html.DisplayNameFor((Article a) => a.PublishedDate)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var article in Model)
+                {
+                    <tr>
+                        <td><a asp-controller="Articles" asp-action="Details" asp-route-id="@article.Id">@article.Title</a></td>
+                        <td>@article.Title</td>
+                        <td>@article.AuthorEmail</td>
+                        <td>@article.PublishedDate.ToString("g")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No articles found.</p>
+    }
+</div>

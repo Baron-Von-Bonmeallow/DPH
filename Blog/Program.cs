@@ -1,4 +1,5 @@
 using Blog.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blog
 {
@@ -7,29 +8,22 @@ namespace Blog
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var cs = builder.Configuration.GetConnectionString("BlogDb");
+            builder.Services.AddDbContext<BlogContext>(opts =>opts.UseSqlite(cs));
+
+            builder.Services.AddScoped<IArticleRepository, ArticleRepository>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            var databaseConfig = builder.Configuration.GetSection("DatabaseConfig").Get<DatabaseConfig>();
-            if (databaseConfig!.UseInMemoryDatabase)
-            {
-                builder.Services.AddSingleton<IArticleRepository, MemoryArticleRepository>();
-            }
-            else
-            {
-                builder.Services.AddSingleton<IArticleRepository>(services =>
-                {
-                    var config = services.GetRequiredService<IConfiguration>();
-                    var repository = new ArticleRepository(databaseConfig);
-
-                    repository.EnsureCreated();
-
-                    return repository;
-                });
-            }
-
             var app = builder.Build();
+
+            //using (var scope = app.Services.CreateScope())
+            //{
+            //    var context = scope.ServiceProvider.GetRequiredService<BlogContext>();
+            //    context.Database.Migrate();
+
+            //}
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -49,6 +43,9 @@ namespace Blog
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Articles}/{action=Index}/{id?}");
+
+            
+
 
             app.Run();
         }
