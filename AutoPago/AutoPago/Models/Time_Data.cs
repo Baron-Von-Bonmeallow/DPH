@@ -1,6 +1,7 @@
 ﻿namespace AutoPago.Models
 {
-    public class FileName
+    public class Time_Data
     {
+
     }
 }
