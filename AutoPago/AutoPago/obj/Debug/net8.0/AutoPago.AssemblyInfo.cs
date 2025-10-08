@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoPago")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4003b99b552f46bd71aca42e352184ee989178d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42255980d4129fda29dc9d9c17954959456cac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoPago")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoPago")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
