@@ -1,0 +1,64 @@
+﻿@model List<SelfCheckOutMarket.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2 class="text-center mb-4">Scan your products</h2>
+
+<form asp-action="AddProduct" method="post" class="mb-4">
+    <div class="input-group mb-3">
+        <input type="text" name="barcode" class="form-control" placeholder="Enter product barcode" required />
+        <button class="btn btn-primary" type="submit">Add</button>
+    </div>
+</form>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price.ToString("C")</td>
+                    <td>@item.Subtotal.ToString("C")</td>
+                    <td>
+                        <form asp-action="RemoveProduct" method="post" class="d-inline">
+                            <input type="hidden" name="barcode" value="@item.Barcode" />
+                            <button class="btn btn-danger btn-sm" type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Total: @Model.Sum(i => i.Subtotal).ToString("C")</h4>
+
+    <div class="mt-4">
+        <a asp-action="Payment" class="btn btn-primary btn-lg">Pay</a>
+        <form asp-action="Cancel" method="post" class="d-inline">
+            <button type="submit" class="btn btn-secondary btn-lg">Cancel Shopping</button>
+        </form>
+    </div>
+} else
+{
+    <p class="text-center">Your cart is empty. Please scan a product to start.</p>
+}
+
+<a asp-action="Payment" class="btn btn-primary btn-lg">Proceed to Payment</a>

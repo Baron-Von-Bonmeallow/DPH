@@ -1,0 +1,5 @@
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\Code\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\Code\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\Code\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\Code\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\Code\Code\obj\Debug\net8.0\Code.sourcelink.json

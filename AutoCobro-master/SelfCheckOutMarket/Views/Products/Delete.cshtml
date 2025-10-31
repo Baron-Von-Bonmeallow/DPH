@@ -1,0 +1,34 @@
+﻿@model SelfCheckOutMarket.Models.Product;
+
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<h1 class="mb-4 text-danger">Delete Product</h1>
+
+<h4>Are you sure you want to delete this product?</h4>
+
+<div class="border rounded p-4 shadow-sm mb-4">
+    <dl class="row">
+        <dt class="col-sm-3">Brand</dt>
+        <dd class="col-sm-9">@Model.brand</dd>
+
+        <dt class="col-sm-3">Name</dt>
+        <dd class="col-sm-9">@Model.name</dd>
+
+        <dt class="col-sm-3">Category</dt>
+        <dd class="col-sm-9">@Model.category</dd>
+
+        <dt class="col-sm-3">Price</dt>
+        <dd class="col-sm-9">@Model.price.ToString("C")</dd>
+
+        <dt class="col-sm-3">Barcode</dt>
+        <dd class="col-sm-9">@Model.barcode</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" method="post"> 
+    <input type="hidden" asp-for="Id"/>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>

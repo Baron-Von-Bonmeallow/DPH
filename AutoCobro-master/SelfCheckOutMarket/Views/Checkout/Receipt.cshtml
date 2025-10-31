@@ -1,0 +1,47 @@
+﻿@model List<SelfCheckOutMarket.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Receipt";
+
+    decimal totalAmount = 0;
+    decimal change = 0;
+    string method = TempData["PaymentMethod"] as string ?? "N/A";
+    string date = DateTime.Now.ToString("g");
+
+    decimal.TryParse(TempData["Total"] as string, out totalAmount);
+    decimal.TryParse(TempData["Change"] as string, out change);
+}
+
+
+<h2>Receipt</h2>
+<p>Date: @date</p>
+<p>Payment Method: @method </p>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@item.Subtotal.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4>Total: @totalAmount.ToString("C")</h4>
+@if (method == "Cash")
+{
+    <h4>Change: @change.ToString("C")</h4>
+}
+<a asp-action="Index" class="btn btn-primary btn-lg mt-4">Back to Index</a>

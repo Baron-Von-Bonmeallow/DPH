@@ -1,0 +1,36 @@
+﻿@model Auth.ViewModels.RegistryViewModel
+
+<h2>Register</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="BirthDate"></label>
+        <input asp-for="BirthDate" type="date" class="form-control" min="1900-01-01" max="2050-12-31" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

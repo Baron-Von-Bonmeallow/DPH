@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+    decimal totalAmount = ViewBag.Total ?? 0;
+}
+
+<h2>Choose your Payment Method</h2>
+<h4>Total to pay: @totalAmount.ToString("C")</h4>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<form asp-action="Payment" method="post" class="mt-4">
+    <div class="mb-3">
+        <label class="form-label">Select Payment Method:</label>
+        <select name="method" class="form-select" id="methodSelect" onchange="toggleInputs()">
+            <option value="Cash">Cash</option>
+            <option value="Card">Card</option>
+        </select>
+    </div>
+
+    <div class="mb-3" id="cashInput">
+        <label for="amount" class="form-label">Enter Cash Received:</label>
+        <input type="number" step="0.01" min="0" class="form-control" name="amount" />
+    </div>
+
+    <!-- Tarjeta -->
+    <div class="mb-3" id="cardInput" style="display:none;">
+        <label for="cardNumber" class="form-label">Card Number:</label>
+        <input type="text" class="form-control" name="cardNumber" placeholder="XXXX-XXXX-XXXX-XXXX" />
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-lg">Confirm Payment</button>
+    <a asp-action="Scan" class="btn btn-secondary btn-lg">Back</a>
+</form>
+
+<script>
+    function toggleInputs() {
+        const method = document.getElementById("methodSelect").value;
+        document.getElementById("cashInput").style.display = method === "Cash" ? "block" : "none";
+        document.getElementById("cardInput").style.display = method === "Card" ? "block" : "none";
+    }
+</script>

@@ -3,3 +3,14 @@ Series/.vs/NumericSeries/v17/.suo
 /Blog/.vs
 /AutoPago/.vs
 /Series/.vs
+/Notifications/.vs/OrderNotifications/CopilotIndices
+/Notifications/.vs
+/Blog/.vs
+*.db
+*.db-shm
+*.db-wal
+*.pdb
+/Blog/.vs
+Password/Auth/appsettings.json
+Password/Password/appsettings.json
+/Password/Auth/bin/Debug

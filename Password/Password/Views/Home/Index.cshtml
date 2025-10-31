@@ -1,0 +1,32 @@
+﻿@model Password.Models.Preferences;
+
+@using Password.Models
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @if (Model?.UserName != null)
+    {
+        <h2>Hello, @Model.UserName!</h2>
+    }
+    else
+    {
+        <h1 class="display-4">Welcome</h1>
+    }
+    <p>Today is @FormatDate(DateTime.Now, Model?.DFormat)</p>
+</div>
+
+@functions {
+    private string FormatDate(DateTime date, DateFormat? format)
+    {
+        return format switch
+        {
+            DateFormat.MMDDYYYY => date.ToString("MM/dd/yyyy"),
+            DateFormat.DDMMYYYY => date.ToString("dd/MM/yyyy"),
+            DateFormat.YYYYMMDD => date.ToString("yyyy/MM/dd"),
+            null or _ => date.ToString("yyyy/MM/dd"),
+        };
+    }
+}

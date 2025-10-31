@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\data\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\data\\memoryarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,52 +43,40 @@
       "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:data\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\articledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064FE7-9B32-4E56-9ED9-90CD3CCD214C}|Blog.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,28 +86,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Article.cs",
-              "RelativeDocumentMoniker": "Models\\Article.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Article.cs",
-              "RelativeToolTip": "Models\\Article.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:29:58.831Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:35:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\BlogContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\BlogContext.cs",
+              "RelativeToolTip": "Data\\BlogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:32:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:31:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ArticleDetailsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\ArticleDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ArticleDetailsViewModel.cs",
@@ -111,57 +144,30 @@
               "RelativeToolTip": "Models\\ArticleDetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T01:29:04.772Z",
+              "WhenOpened": "2025-09-30T01:29:04.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T02:18:28.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Articles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Index.cshtml",
-              "RelativeToolTip": "Views\\Articles\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T05:07:44.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Articles\\Details.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Details.cshtml",
-              "RelativeToolTip": "Views\\Articles\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T03:51:22.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Search.cshtml",
-              "RelativeDocumentMoniker": "Views\\Articles\\Search.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Search.cshtml",
-              "RelativeToolTip": "Views\\Articles\\Search.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T01:17:25.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\ArticleRepository.cs",
               "RelativeDocumentMoniker": "Data\\ArticleRepository.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\ArticleRepository.cs",
               "RelativeToolTip": "Data\\ArticleRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwC4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T09:43:59.564Z",
               "EditorCaption": ""
@@ -169,97 +175,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArticlesController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\ArticlesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\ArticlesController.cs",
-              "RelativeToolTip": "Controllers\\ArticlesController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwDAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:35:07.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemoryArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\MemoryArticleRepository.cs",
-              "RelativeDocumentMoniker": "Data\\MemoryArticleRepository.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\MemoryArticleRepository.cs",
-              "RelativeToolTip": "Data\\MemoryArticleRepository.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswDUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T02:12:37.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlogContext.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\BlogContext.cs",
-              "RelativeDocumentMoniker": "Data\\BlogContext.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\BlogContext.cs",
-              "RelativeToolTip": "Data\\BlogContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:32:46.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\IArticleRepository.cs",
-              "RelativeDocumentMoniker": "Data\\IArticleRepository.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\IArticleRepository.cs",
-              "RelativeToolTip": "Data\\IArticleRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T01:47:26.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T01:05:15.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Articles\\Create.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Create.cshtml",
-              "RelativeToolTip": "Views\\Articles\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T03:04:36.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Comment.cs",
-              "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:59:44.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "DatabaseConfig.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\DatabaseConfig.cs",
               "RelativeDocumentMoniker": "DatabaseConfig.cs",
@@ -272,33 +187,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:31:56.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T03:29:58.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T02:18:28.842Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "MemoryArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\MemoryArticleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\MemoryArticleRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\MemoryArticleRepository.cs",
+              "RelativeToolTip": "Data\\MemoryArticleRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:12:37.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Data\\IArticleRepository.cs",
+              "RelativeToolTip": "Data\\IArticleRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:47:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:37:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T03:04:36.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blog.csproj",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Blog.csproj",
+              "RelativeDocumentMoniker": "Blog.csproj",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Blog.csproj",
+              "RelativeToolTip": "Blog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T04:10:10.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Search.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Search.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:17:25.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T03:51:22.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -306,21 +291,43 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T02:10:18.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T02:10:18.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T01:05:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Articles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T05:07:44.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Blog\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:37:30.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T04:59:44.848Z"
             }
           ]
         }

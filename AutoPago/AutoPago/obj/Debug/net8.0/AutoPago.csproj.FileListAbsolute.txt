@@ -1,0 +1,10 @@
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.RazorAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.RazorAssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\AutoPago\AutoPago\obj\Debug\net8.0\AutoPago.sourcelink.json

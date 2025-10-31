@@ -1,0 +1,15 @@
+﻿@model Auth.Models.Users
+
+@{
+    ViewData["Title"] = "Protected Area";
+}
+
+<h2>Welcome, @Model.UserName!</h2>
+
+<div>
+    <p><strong>User ID:</strong> @Model.Id</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Date Format Preference:</strong> @Model.DFormat</p>
+</div>
+
+<a href="@Url.Action("Delete", "Cookie")" class="btn btn-danger">Logout</a>
