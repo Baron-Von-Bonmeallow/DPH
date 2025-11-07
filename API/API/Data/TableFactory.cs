@@ -1,14 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using API.Data;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-using API.Data;
 
-public class TableFactory : IDesignTimeDbContextFactory<DataContext>
+namespace Auth.Data
 {
-    public DataContext CreateDbContext(string[] args)
+    public class TableFactory : IDesignTimeDbContextFactory<DataContext>
     {
-        var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
-        optionsBuilder.UseSqlServer("Server=localhost;Database=DPH;Trusted_Connection=True;TrustServerCertificate=True;");
-
-        return new DataContext(optionsBuilder.Options);
+        public DataContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
+            optionsBuilder.UseSqlite("Data Source=DPH.db");
+            return new DataContext(optionsBuilder.Options);
+        }
     }
 }

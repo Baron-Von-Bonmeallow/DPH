@@ -1,33 +1,19 @@
 ﻿using Microsoft.AspNetCore.Authorization.Infrastructure;
-
+using System.Text.Json.Serialization;
+using System.ComponentModel.DataAnnotations;
 namespace API.Models
 {
     public class Projects
     {
 
         public Guid Id { get; set; }= Guid.NewGuid();
-        public required string Title { get; set; }
-        public required string OwnerId { get; set; }
-        public required Users Owner { get; set; }
+        [Required]
+        public string Title { get; set; } = null!;
+        public  string? OwnerId { get; set; }
+        [JsonIgnore]
+        public Users? Owner { get; set; }
         public string? Content { get; set; }
-        public List<int>? UserIds { get; }
-        
-
-        //public SharedElement(int elementId, string content,List<int> userIds, SharedRole role)
-        //{
-        //    ElementId = elementId;
-        //    Content = content;
-        //    UserIds = userIds ?? new List<int>();
-        //    Role = role;
-        //}
+        public List<int>? UserIds { get; set; }
     }
-
-    //public enum SharedRole
-    //{
-    //    Owner,
-    //    Admin,
-    //    Editor,
-    //    Viewer
-    //}
 
 }

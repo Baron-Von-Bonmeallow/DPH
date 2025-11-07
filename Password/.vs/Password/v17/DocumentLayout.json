@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\data\\servercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\data\\servercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\data\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\data\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -51,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\views\\account\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\models\\cookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\models\\cookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\data\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\data\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\data\\icookierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,14 +104,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\data\\servercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\data\\servercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|solutionrelative:auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B37414AC-14E2-4DF5-9880-7BD5151E99AC}|Auth\\Auth.csproj|c:\\users\\mateo\\onedrive\\documents\\github\\proyects\\dph\\password\\auth\\auth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -217,58 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Auth\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Auth\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswGcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:34:20.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CookieController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\CookieController.cs",
-              "RelativeDocumentMoniker": "Auth\\Controllers\\CookieController.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\CookieController.cs",
-              "RelativeToolTip": "Auth\\Controllers\\CookieController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwvz0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T03:14:21.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cheker.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Attributes\\Cheker.cs",
-              "RelativeDocumentMoniker": "Auth\\Attributes\\Cheker.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Attributes\\Cheker.cs",
-              "RelativeToolTip": "Auth\\Attributes\\Cheker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:56:27.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Auth\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Auth\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:34:24.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Auth\\ViewModels\\LoginViewModel.cs",
@@ -276,12 +229,11 @@
               "RelativeToolTip": "Auth\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T00:43:56.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T00:43:56.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\UsersRepository.cs",
               "RelativeDocumentMoniker": "Auth\\Data\\UsersRepository.cs",
@@ -289,12 +241,11 @@
               "RelativeToolTip": "Auth\\Data\\UsersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:40:36.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T02:40:36.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Auth\\Views\\Account\\Login.cshtml",
@@ -302,12 +253,11 @@
               "RelativeToolTip": "Auth\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T21:16:36.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T21:16:36.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Auth.csproj",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Auth.csproj",
               "RelativeDocumentMoniker": "Auth\\Auth.csproj",
@@ -315,144 +265,86 @@
               "RelativeToolTip": "Auth\\Auth.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-29T03:06:18.843Z",
+              "WhenOpened": "2025-10-29T03:06:18.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\appsettings.json",
+              "RelativeToolTip": "Auth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T01:11:45.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Protected.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Protected.cshtml",
-              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Protected.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Protected.cshtml",
-              "RelativeToolTip": "Auth\\Views\\Account\\Protected.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T21:09:40.606Z"
+              "DocumentIndex": 3,
+              "Title": "ServerContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ServerContextFactory.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\ServerContextFactory.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ServerContextFactory.cs",
+              "RelativeToolTip": "Auth\\Data\\ServerContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:07:30.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Auth\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Auth\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T21:10:39.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "SettingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\ViewModels\\SettingViewModel.cs",
               "RelativeDocumentMoniker": "Auth\\ViewModels\\SettingViewModel.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\ViewModels\\SettingViewModel.cs",
               "RelativeToolTip": "Auth\\ViewModels\\SettingViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T00:57:00.053Z"
+              "WhenOpened": "2025-10-31T00:57:00.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Auth\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T21:14:07.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Settings.cshtml",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Settings.cshtml",
-              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Settings.cshtml",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Settings.cshtml",
-              "RelativeToolTip": "Auth\\Views\\Account\\Settings.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T21:15:51.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DatabaseConfig.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\DatabaseConfig.cs",
-              "RelativeDocumentMoniker": "Auth\\DatabaseConfig.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\DatabaseConfig.cs",
-              "RelativeToolTip": "Auth\\DatabaseConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T02:01:04.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Program.cs",
               "RelativeDocumentMoniker": "Auth\\Program.cs",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Program.cs",
               "RelativeToolTip": "Auth\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T20:57:36.234Z"
+              "WhenOpened": "2025-10-30T20:57:36.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cookies.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Models\\Cookies.cs",
-              "RelativeDocumentMoniker": "Auth\\Models\\Cookies.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Models\\Cookies.cs",
-              "RelativeToolTip": "Auth\\Models\\Cookies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:45:37.243Z"
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Auth\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Auth\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T04:20:50.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CookieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\CookieRepository.cs",
-              "RelativeDocumentMoniker": "Auth\\Data\\CookieRepository.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\CookieRepository.cs",
-              "RelativeToolTip": "Auth\\Data\\CookieRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIA/wC8AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:48:34.783Z"
+              "WhenOpened": "2025-10-29T02:34:24.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICookieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ICookieRepository.cs",
-              "RelativeDocumentMoniker": "Auth\\Data\\ICookieRepository.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ICookieRepository.cs",
-              "RelativeToolTip": "Auth\\Data\\ICookieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:47:55.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MemoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\MemoryRepository.cs",
-              "RelativeDocumentMoniker": "Auth\\Data\\MemoryRepository.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\MemoryRepository.cs",
-              "RelativeToolTip": "Auth\\Data\\MemoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T03:14:21.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "ServerContext.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ServerContext.cs",
               "RelativeDocumentMoniker": "Auth\\Data\\ServerContext.cs",
@@ -464,7 +356,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cheker.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Attributes\\Cheker.cs",
+              "RelativeDocumentMoniker": "Auth\\Attributes\\Cheker.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Attributes\\Cheker.cs",
+              "RelativeToolTip": "Auth\\Attributes\\Cheker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:56:27.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\CookieController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvz0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:14:21.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:34:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Protected.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Protected.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Protected.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Protected.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Account\\Protected.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T21:09:40.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T21:10:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T21:14:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Settings.cshtml",
+              "RelativeDocumentMoniker": "Auth\\Views\\Account\\Settings.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Views\\Account\\Settings.cshtml",
+              "RelativeToolTip": "Auth\\Views\\Account\\Settings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T21:15:51.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "Auth\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\DatabaseConfig.cs",
+              "RelativeToolTip": "Auth\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:01:04.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "Cookies.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Models\\Cookies.cs",
+              "RelativeDocumentMoniker": "Auth\\Models\\Cookies.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Models\\Cookies.cs",
+              "RelativeToolTip": "Auth\\Models\\Cookies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:45:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CookieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\CookieRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\CookieRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\CookieRepository.cs",
+              "RelativeToolTip": "Auth\\Data\\CookieRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA/wC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:48:34.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICookieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ICookieRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\ICookieRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ICookieRepository.cs",
+              "RelativeToolTip": "Auth\\Data\\ICookieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:47:55.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\MemoryRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Data\\MemoryRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\MemoryRepository.cs",
+              "RelativeToolTip": "Auth\\Data\\MemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:14:21.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Auth\\Models\\Users.cs",
@@ -476,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "RegistryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\ViewModels\\RegistryViewModel.cs",
               "RelativeDocumentMoniker": "Auth\\ViewModels\\RegistryViewModel.cs",
@@ -488,31 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServerContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ServerContextFactory.cs",
-              "RelativeDocumentMoniker": "Auth\\Data\\ServerContextFactory.cs",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\ServerContextFactory.cs",
-              "RelativeToolTip": "Auth\\Data\\ServerContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T04:07:30.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth\\appsettings.json",
-              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\appsettings.json",
-              "RelativeToolTip": "Auth\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T01:11:45.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -524,19 +536,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Auth",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Auth.csproj",
               "RelativeDocumentMoniker": "Auth\\Auth.csproj",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Auth.csproj",
               "RelativeToolTip": "Auth\\Auth.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-30T23:57:07.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T23:57:07.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Data\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "Auth\\Data\\IUsersRepository.cs",
@@ -548,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Password.csproj",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Password.csproj",
               "RelativeDocumentMoniker": "Password\\Password.csproj",
@@ -556,12 +567,11 @@
               "RelativeToolTip": "Password\\Password.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-29T01:15:30.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:15:30.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Program.cs",
               "RelativeDocumentMoniker": "Password\\Program.cs",
@@ -573,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Auth.csproj.user",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Auth\\Auth.csproj.user",
               "RelativeDocumentMoniker": "Auth\\Auth.csproj.user",
@@ -585,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ErrorView.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Models\\ErrorView.cs",
               "RelativeDocumentMoniker": "Password\\Models\\ErrorView.cs",
@@ -597,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\Home\\Index.cshtml",
@@ -609,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\UserPage\\Login.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\UserPage\\Login.cshtml",
@@ -621,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Hash\\Models\\User.cs",
               "RelativeDocumentMoniker": "Password\\Hash\\Models\\User.cs",
@@ -633,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Preferences.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Models\\Preferences.cs",
               "RelativeDocumentMoniker": "Password\\Models\\Preferences.cs",
@@ -645,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Password\\Controllers\\HomeController.cs",
@@ -657,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\appsettings.json",
               "RelativeDocumentMoniker": "Password\\appsettings.json",
@@ -669,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Settings.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\UserPage\\Settings.cshtml.cs",
               "RelativeDocumentMoniker": "Password\\Views\\UserPage\\Settings.cshtml.cs",
@@ -681,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Password\\Models\\Users.cs",
@@ -693,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Settings.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\UserPage\\Settings.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\UserPage\\Settings.cshtml",
@@ -705,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "_Layout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\Shared\\_Layout.cshtml.cs",
               "RelativeDocumentMoniker": "Password\\Views\\Shared\\_Layout.cshtml.cs",
@@ -717,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\Shared\\_Layout.cshtml",
@@ -729,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\_ViewStart.cshtml",
@@ -741,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Password\\Views\\_ViewImports.cshtml",
@@ -753,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\Home\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Password\\Views\\Home\\Index.cshtml.cs",
@@ -765,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "LaunchSetting.json",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Properties\\LaunchSetting.json",
               "RelativeDocumentMoniker": "Password\\Properties\\LaunchSetting.json",
@@ -777,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Hash.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Hash\\Hash.cs",
               "RelativeDocumentMoniker": "Password\\Hash\\Hash.cs",
@@ -789,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Views\\UserPage\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Password\\Views\\UserPage\\Login.cshtml.cs",
@@ -801,15 +811,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Password",
               "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Password.csproj",
               "RelativeDocumentMoniker": "Password\\Password.csproj",
               "ToolTip": "C:\\Users\\mateo\\OneDrive\\Documents\\GitHub\\Proyects\\DPH\\Password\\Password\\Password.csproj",
               "RelativeToolTip": "Password\\Password.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-29T01:39:45.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:39:45.019Z"
             }
           ]
         }
