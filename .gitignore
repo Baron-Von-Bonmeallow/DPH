@@ -14,3 +14,8 @@ Series/.vs/NumericSeries/v17/.suo
 Password/Auth/appsettings.json
 Password/Password/appsettings.json
 /Password/Auth/bin/Debug
+/API/.vs
+API/API/appsettings.json
+API/API/appsettings.Development.json
+API/API/obj/Debug/net8.0/apphost.exe
+API/API/bin/Debug/net8.0/appsettings.json

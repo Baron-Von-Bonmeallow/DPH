@@ -1,0 +1,29 @@
+﻿@model IEnumerable<API.Models.Projects>
+@{
+    ViewData["Title"] = "My Projects";
+}
+
+<h2>My Projects</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Created</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model)
+        {
+            <tr>
+                <td>@project.Title</td>
+                <td>@project.Content</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@project.Id">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
