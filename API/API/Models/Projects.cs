@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization.Infrastructure;
-using System.Text.Json.Serialization;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 namespace API.Models
 {
     public class Projects
@@ -13,6 +14,7 @@ namespace API.Models
         [JsonIgnore]
         public Users? Owner { get; set; }
         public string? Content { get; set; }
+        [NotMapped]
         public List<int>? UserIds { get; set; }
     }
 

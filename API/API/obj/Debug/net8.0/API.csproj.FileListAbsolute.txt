@@ -167,3 +167,4 @@ C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\API\API\obj\Debug\net8.0\r
 C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\API\API\obj\Debug\net8.0\API.pdb
 C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\API\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\mateo\OneDrive\Documents\GitHub\Proyects\DPH\API\API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
